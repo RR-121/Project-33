@@ -29,7 +29,7 @@ function setup() {
 
   userStartAudio();
   recording.play();
-  console.log("Click anywhere on the animation for a surprise! Make sure you have your volume up!")
+  console.log("CLICK ANYWHERE ON THE ANIMATION FOR A SURPRISE! MAKE SURE YOU HAVE YOUR VOLUME UP!!!")
 }
 
 function draw() {
